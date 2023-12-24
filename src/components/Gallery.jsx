@@ -2,14 +2,8 @@ import "../styles/Gallery.css";
 
 function Gallery() {
   return (
-    <div id="gallery" >
+    <div id="gallery" className="section">
       <h1>Gallery</h1>
-      <img
-        src={
-          process.env.PUBLIC_URL + "/Screenshot 2023-12-24 at 12.00.55 PM.png"
-        }
-        alt="hii"
-      />
     </div>
   );
 }
