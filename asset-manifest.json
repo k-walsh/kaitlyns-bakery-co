@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kaitlyns-bakery-co/static/css/main.1a586882.css",
-    "main.js": "/kaitlyns-bakery-co/static/js/main.11e89b81.js",
+    "main.css": "/kaitlyns-bakery-co/static/css/main.36522c3d.css",
+    "main.js": "/kaitlyns-bakery-co/static/js/main.8a1c8a7c.js",
     "index.html": "/kaitlyns-bakery-co/index.html",
-    "main.1a586882.css.map": "/kaitlyns-bakery-co/static/css/main.1a586882.css.map",
-    "main.11e89b81.js.map": "/kaitlyns-bakery-co/static/js/main.11e89b81.js.map"
+    "main.36522c3d.css.map": "/kaitlyns-bakery-co/static/css/main.36522c3d.css.map",
+    "main.8a1c8a7c.js.map": "/kaitlyns-bakery-co/static/js/main.8a1c8a7c.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a586882.css",
-    "static/js/main.11e89b81.js"
+    "static/css/main.36522c3d.css",
+    "static/js/main.8a1c8a7c.js"
   ]
 }
